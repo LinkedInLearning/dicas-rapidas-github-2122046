@@ -1,6 +1,6 @@
 # Dicas Rápidas do GitHub 
 
-Este é o repositório do curso `[título do curso]`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
+Este é o repositório do curso `Dicas Rápidas do GitHub`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url]. 
 
 ![Título completo do curso][lil-thumbnail-url]  
 
